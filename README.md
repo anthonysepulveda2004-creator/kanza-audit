@@ -1,9 +1,12 @@
 # kanza-audit
 Página web comercial para empresa  KANSA AUDIT 
-kanza-audit/
-│── src/
-│   ├── pages/
-│   │   ├── index.jsx         # Landing Page
+kanza-audit/kanza-audit/
+│
+├── index.html
+├── main.js
+├── README.md
+└── db_setup.
+Landing Page
 │   │   ├── login.jsx         # Inicio de sesión
 │   │   ├── register.jsx      # Registro
 │   │   ├── dashboard.jsx     # Zona privada
